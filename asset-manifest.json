@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Classic-Quads-Barbers/static/css/main.dfc5a2f9.css",
-    "main.js": "/Classic-Quads-Barbers/static/js/main.cd61f9a4.js",
+    "main.js": "/Classic-Quads-Barbers/static/js/main.0ba65d8d.js",
     "static/js/453.ac42203b.chunk.js": "/Classic-Quads-Barbers/static/js/453.ac42203b.chunk.js",
     "static/media/barbervid.mp4": "/Classic-Quads-Barbers/static/media/barbervid.390f351e4b87e66d7164.mp4",
     "static/media/logo.png": "/Classic-Quads-Barbers/static/media/logo.ff1152e73834fbb845a4.png",
@@ -10,11 +10,11 @@
     "static/media/revicons.woff": "/Classic-Quads-Barbers/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Classic-Quads-Barbers/index.html",
     "main.dfc5a2f9.css.map": "/Classic-Quads-Barbers/static/css/main.dfc5a2f9.css.map",
-    "main.cd61f9a4.js.map": "/Classic-Quads-Barbers/static/js/main.cd61f9a4.js.map",
+    "main.0ba65d8d.js.map": "/Classic-Quads-Barbers/static/js/main.0ba65d8d.js.map",
     "453.ac42203b.chunk.js.map": "/Classic-Quads-Barbers/static/js/453.ac42203b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfc5a2f9.css",
-    "static/js/main.cd61f9a4.js"
+    "static/js/main.0ba65d8d.js"
   ]
 }
