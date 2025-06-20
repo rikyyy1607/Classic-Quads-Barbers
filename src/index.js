@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { HashRouter } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Services from './pages/Services';
 import Nav from './components/Nav';
 import NotFound from './pages/Notfound';
@@ -29,7 +29,7 @@ root.render(
       <Route path='*' Component={NotFound}></Route>
     </Routes>
     <Footer />
-  <HashRouter>
+  </BrowserRouter>
 );
 
 reportWebVitals();
